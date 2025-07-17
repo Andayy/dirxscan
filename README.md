@@ -21,3 +21,5 @@
 ```bash
 ./dirxscan -u <目标URL> -w <字典路径> [-t 线程数]
 ```
+
+其中`common.txt`是默认字典
